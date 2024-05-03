@@ -1,4 +1,4 @@
-(function (global, $) {
+;(function (global, $) {
     //'new' an object
     var Greetr = function (firstName, lastName, language) {
         return new Greetr.init(firstName, lastName, language);
@@ -12,8 +12,8 @@
     };
     // formal greetings
     var formalGreetings = {
-        en: 'Greetings',
-        es: 'Saludos'
+        en: 'Greetings,',
+        es: 'Saludos,'
     };
     //logger messages
     var logMessages = {
