@@ -1,0 +1,1 @@
+It's a small greeting framework to enhance my understanding of JavaScript concepts under the hood, such as closures, building objects, the 'this' keyword, prototypal inheritance, execution context, IIFEs, and many more of the magic of JavaScript
